@@ -1,0 +1,4 @@
+# Below is the link for VMWare Workstation last installer from Vmware website
+https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.5.2/23775571/windows/core/VMware-workstation-17.5.2-23775571.exe.tar
+
+## NOTE: It might stop working anytime
